@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rynkim
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning python,java script,and css
